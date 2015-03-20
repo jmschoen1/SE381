@@ -1,0 +1,8 @@
+Given(/^the status "(.*?)"$/) do |status|                                                                                                                                                                                                                                  
+end                                                                                                                                                                      
+                                                                                                                                                                         
+And(/^the neighbors "(.*?)"$/) do |neighbors|                                                                                                                                         
+end                                                                                                                                                                      
+                                                                                                                                                                         
+Then(/^the newstatus should be "(.*?)"$/) do |newStatus|                                                                                                                                                                                                                
+end   
